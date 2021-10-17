@@ -1,16 +1,28 @@
-### Hi there 👋
+# Salut ! ✌️
+## A Propos De Moi
+### Je suis m'appelles Romain et je débute dans le développement du
+  * **Python** 🐍
+  * **Java** 🍵
+  * **JavaScript** ☕
+  * **Html/Css** 📌
 
-<!--
-**Roro0752/roro0752** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Je suis sur Github Pour
+#### Vous partager mon aprentissage, mes essais de développements etc...
+#### Mais aussi je fais des tools pour discord que je pourrais partager prochainement sur ce compte.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Mon Discord :
+
+
+
+
+
+
+
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/843105140684357632)](https://discord.com/users/843105140684357632)
+
+
+
+
